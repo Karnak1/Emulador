@@ -1,4 +1,4 @@
-## 🎉 Emulador CHIP-8 Completo - Resumo Final
+## 🎉 Emulador CHIP-8 Atalizado - Resumo do pack
 
 ### ✅ O que foi criado:
 
