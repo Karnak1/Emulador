@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Emulador CHIP-8 em C
+# Emulador CHIP-8 em C e Python
 
 Um emulador modular e didático da máquina virtual **CHIP-8**, escrito em C puro.
 
