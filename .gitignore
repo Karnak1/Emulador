@@ -1,3 +1,49 @@
+<<<<<<< HEAD
+# Arquivos e pasta específicos do Visual Studio
+.vs/
+.vscode/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# Arquivos compilados
+*.o
+*.obj
+*.exe
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Diretórios de compilação
+obj/
+build/
+dist/
+Debug/
+Release/
+
+# Editores
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+*.sublime-workspace
+
+# Dependências
+/node_modules/
+venv/
+.env
+
+# Arquivos temporários
+*.tmp
+*.log
+=======
 # Prerequisites
 *.d
 
@@ -53,3 +99,4 @@ dkms.conf
 
 # debug information files
 *.dwo
+>>>>>>> feb3c3f762e5155b844ad0090e1ff5613ef8a621
